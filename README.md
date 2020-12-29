@@ -17,7 +17,7 @@ When running the entire system, the code here will be used jointly with MATLAB c
 
 
 ### Monitoring System Block Diagram
-
+![alt text](https://github.com/mstewart2525/ENG4000MonitoringControl/blob/FirstDraft/Monitoring_System_Block_Diagram.png)
 
 
 ReadMe Last Revised : (29-12-2021)
