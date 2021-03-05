@@ -1,0 +1,3 @@
+HyperSonic Sensor
+at a baud rate of 9600.
+Minimum time between distance measurements if around 0.05 seconds
